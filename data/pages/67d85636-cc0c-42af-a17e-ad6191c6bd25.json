@@ -138,7 +138,7 @@
       ]
     },
     {
-      "type": "grid",
+      "type": "paragraph",
       "layout": [
         6
       ],
@@ -150,24 +150,78 @@
       ]
     },
     {
-      "type": "grid",
+      "type": "paragraph",
       "layout": [
         6
       ],
       "children": [
         {
-          "text": "Content Questions:\n"
+          "text": "Content Questions:"
         }
       ]
     },
     {
-      "type": "grid",
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "What does the list of interviewees and the content of their interviews suggest about the role, politics, and influence of public figures in the late-1950s?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "Where do societal ideologies emerge across four interviews and what does this communicate about the purpose of the series?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "layout": [
         6
       ],
       "children": [
         {
-          "text": "Method Questions:\n"
+          "text": "Method Questions:"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "How can qualitative coding be used to categorize the tone, language, and style of interviews?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "Using discourse analysis, what ideas and interviewer-interviewee dynamics are repeated across the series?"
+            }
+          ]
         }
       ]
     },
@@ -183,14 +237,29 @@
       ]
     },
     {
-      "type": "grid",
-      "layout": [
-        6
-      ],
+      "type": "bulleted-list",
       "children": [
         {
-          "text": "",
-          "textSize": "heading-one"
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "Application of qualitative research methods to audio and video material"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "Analysis of how meaning circulates across different sociopolitical setting, including interviews"
+            }
+          ]
         }
       ]
     },
@@ -213,7 +282,34 @@
       ],
       "children": [
         {
-          "text": "Content Questions:\n"
+          "text": "Content Questions:"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "Based on both the content and style of three interviews, what do the conventions of this series reveal about how journalism reflects the investments of society?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "How can annotating camera shots and audio quality be used to develop new ways to think about the use of narrative in interviews?"
+            }
+          ]
         }
       ]
     },
@@ -224,7 +320,34 @@
       ],
       "children": [
         {
-          "text": "Method Questions:\n"
+          "text": "Method Questions:"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "How can analysis of media technologies alone be used to better understand the relationship between the interviewee, audience, and the archive?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "How can annotating according to media and content be used to aid qualitative analysis of secondary material?"
+            }
+          ]
         }
       ]
     },
@@ -240,71 +363,40 @@
       ]
     },
     {
-      "type": "grid",
-      "layout": [
-        6
-      ],
+      "type": "bulleted-list",
       "children": [
         {
-          "text": "",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        6
-      ],
-      "children": [
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "Demonstrate how critical analysis of media impacts the style and content of journalism"
+            }
+          ]
+        },
         {
-          "textSize": "heading-one",
-          "text": "History"
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        6
-      ],
-      "children": [
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "Reflection on how cultural narratives are communicated in archival settings"
+            }
+          ]
+        },
         {
-          "text": "Content Questions:\n"
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        6
-      ],
-      "children": [
-        {
-          "text": "Method Questions:\n"
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        6
-      ],
-      "children": [
-        {
-          "text": "Student Outcomes:"
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        6
-      ],
-      "children": [
-        {
-          "text": "",
-          "textSize": "heading-one"
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "Collaboration between content, media, and form, alongside analysis of secondary material"
+            }
+          ]
         }
       ]
     },
@@ -406,6 +498,6 @@
   "slug": "questions-and-interventions",
   "created_at": "2025-08-03T15:39:14.440Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2025-08-03T15:39:14.440Z",
+  "updated_at": "2025-08-03T15:58:15.928Z",
   "updated_by": "trentwintermeier"
 }
