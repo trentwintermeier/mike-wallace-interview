@@ -7,8 +7,31 @@
       ],
       "children": [
         {
-          "text": "Humanities",
+          "text": "",
           "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": "Humanities"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -57,6 +80,17 @@
       ],
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
           "text": "Method Questions:"
         }
       ]
@@ -85,6 +119,17 @@
               "text": "How can rhetorical or literary analysis be used to look at voice, silence, and tone, and how can this be integrated into the annotations/transcript?"
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -145,7 +190,30 @@
       "children": [
         {
           "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "textSize": "heading-one",
           "text": "Social Sciences"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -194,6 +262,17 @@
       ],
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
           "text": "Method Questions:"
         }
       ]
@@ -222,6 +301,17 @@
               "text": "Using discourse analysis, what ideas and interviewer-interviewee dynamics are repeated across the series?"
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -271,7 +361,30 @@
       "children": [
         {
           "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "textSize": "heading-one",
           "text": "Media/Comm/RTF"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -320,6 +433,17 @@
       ],
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
           "text": "Method Questions:"
         }
       ]
@@ -348,6 +472,17 @@
               "text": "How can annotating according to media and content be used to aid qualitative analysis of secondary material?"
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -408,7 +543,30 @@
       "children": [
         {
           "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "textSize": "heading-one",
           "text": "Education/Pedagogy"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -457,6 +615,17 @@
       ],
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
           "text": "Method Questions:"
         }
       ]
@@ -485,6 +654,17 @@
               "text": "How can educators promote students' shift from passive to active listening through collaborative annotation?"
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -546,6 +726,6 @@
   "slug": "questions-and-interventions",
   "created_at": "2025-08-03T15:39:14.440Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2025-08-03T16:05:04.749Z",
+  "updated_at": "2025-08-03T16:53:03.916Z",
   "updated_by": "trentwintermeier"
 }
