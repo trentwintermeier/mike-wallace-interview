@@ -419,7 +419,34 @@
       ],
       "children": [
         {
-          "text": "Content Questions:\n"
+          "text": "Content Questions:"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "How is knowledge modeled and valued in different parts of interviews, and different interviewees, versus others?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "How does the form of the interview ask students to consider the role of public knowledge-making and education?"
+            }
+          ]
         }
       ]
     },
@@ -430,12 +457,39 @@
       ],
       "children": [
         {
-          "text": "Method Questions:\n"
+          "text": "Method Questions:"
         }
       ]
     },
     {
-      "type": "grid",
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "What critical analysis strategies become available to students in audiovisual media?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "How can educators promote students' shift from passive to active listening through collaborative annotation?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "layout": [
         6
       ],
@@ -446,35 +500,29 @@
       ]
     },
     {
-      "type": "grid",
-      "layout": [
-        6
-      ],
+      "type": "bulleted-list",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        6
-      ],
-      "children": [
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "Develop critical listening skills in interpersonal and mediated settings"
+            }
+          ]
+        },
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        6
-      ],
-      "children": [
-        {
-          "text": ""
+          "type": "list-item",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": "Practice interdisciplinary methods for engaging in public-facing digital humanities work"
+            }
+          ]
         }
       ]
     },
@@ -498,6 +546,6 @@
   "slug": "questions-and-interventions",
   "created_at": "2025-08-03T15:39:14.440Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2025-08-03T15:58:15.928Z",
+  "updated_at": "2025-08-03T16:05:04.749Z",
   "updated_by": "trentwintermeier"
 }
