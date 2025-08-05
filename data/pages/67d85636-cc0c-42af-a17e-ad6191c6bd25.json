@@ -7,8 +7,7 @@
       ],
       "children": [
         {
-          "text": "",
-          "textSize": "heading-one"
+          "text": ""
         }
       ]
     },
@@ -189,7 +188,6 @@
       ],
       "children": [
         {
-          "textSize": "heading-one",
           "text": ""
         }
       ]
@@ -201,8 +199,8 @@
       ],
       "children": [
         {
-          "textSize": "heading-one",
-          "text": "Social Sciences"
+          "text": "Social Sciences",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -360,7 +358,6 @@
       ],
       "children": [
         {
-          "textSize": "heading-one",
           "text": ""
         }
       ]
@@ -372,8 +369,8 @@
       ],
       "children": [
         {
-          "textSize": "heading-one",
-          "text": "Media/Comm/RTF"
+          "text": "Media/Comm/RTF",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -542,7 +539,6 @@
       ],
       "children": [
         {
-          "textSize": "heading-one",
           "text": ""
         }
       ]
@@ -554,8 +550,8 @@
       ],
       "children": [
         {
-          "textSize": "heading-one",
-          "text": "Education/Pedagogy"
+          "text": "Education/Pedagogy",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -726,7 +722,7 @@
   "slug": "questions-and-interventions",
   "created_at": "2025-08-03T15:39:14.440Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2025-08-03T16:57:46.927Z",
+  "updated_at": "2025-08-05T16:25:00.556Z",
   "updated_by": "trentwintermeier",
   "parent": "5b646f20-c748-46b3-b34d-a3e48c43b12b"
 }
