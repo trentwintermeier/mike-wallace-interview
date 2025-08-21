@@ -3,7 +3,7 @@
     "ada4087d-cd97-48d9-bbaa-28fabf8f5b34": {
       "label": "Interview with James McBride Dabbs",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll90/72.mp4/byte/json",
       "duration": 0,
       "caption_set": [],
@@ -25,6 +25,9 @@
   "label": "Interview with James McBride Dabbs",
   "created_at": "2025-08-21T16:33:30.599Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2025-08-21T16:33:30.599Z",
-  "updated_by": "trentwintermeier"
+  "updated_at": "2025-08-21T16:54:08.008Z",
+  "updated_by": "trentwintermeier",
+  "av_file_order": [
+    "ada4087d-cd97-48d9-bbaa-28fabf8f5b34"
+  ]
 }
