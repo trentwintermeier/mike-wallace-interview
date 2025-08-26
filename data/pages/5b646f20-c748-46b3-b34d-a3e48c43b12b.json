@@ -1,12 +1,21 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-07-30T16:34:57.077Z",
   "created_by": "trentwintermeier",
   "title": "The Mike Wallace Interview",
-  "updated_at": "2025-07-30T16:34:57.077Z",
+  "updated_at": "2025-08-26T02:56:17.000Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
