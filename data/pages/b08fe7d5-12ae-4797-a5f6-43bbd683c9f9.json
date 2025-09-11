@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "<iframe src=\"",
+          "code": true
+        },
+        {
+          "type": "link",
+          "url": "https://trentwintermeier.github.io/pipe-dreams-2025/events/marathon-nov-23/",
+          "children": [
+            {
+              "text": "https://trentwintermeier.github.io/pipe-dreams-2025/events/marathon-nov-23/",
+              "code": true
+            }
+          ]
+        },
+        {
+          "text": "\" width=\"850\" height=\"800\" scrolling=\"yes\" frameborder=\"0\">\n  </iframe>",
+          "code": true
+        }
+      ]
+    }
+  ],
+  "title": "EXAMPLE",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "example",
+  "created_at": "2025-09-11T00:29:51.393Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-09-11T00:29:51.393Z",
+  "updated_by": "trentwintermeier"
+}
